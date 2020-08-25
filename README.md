@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
   _     _                                     _ _ 
 | |   (_)                                   (_) |
 | |    ___   _____    ___  _ __    _____   ___| |
@@ -24,4 +25,4 @@ Here are some ideas to get you started:
 | |___| |\ V /  __/ | (_) | |    |  __/\ V /| | |
 \_____/_| \_/ \___|  \___/|_|     \___| \_/ |_|_|
                                                  
-                                                 
+```                                                
