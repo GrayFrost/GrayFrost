@@ -27,7 +27,7 @@ Here are some ideas to get you started:
                                                  
 ``` 
 
-![](https://img.shields.io/badge/CODE-HTML5-informational?style=flat&logo=HTML5&logoColor=E34F26&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 
 
 ![GrayFrost's github stats](https://github-readme-stats.vercel.app/api?username=GrayFrost&show_icons=true&theme=radical)
