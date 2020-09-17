@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/CODE-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/CODE-Javascript-informational?style=flat&logo=Javascript&color=F7DF1E)
-![](https://img.shields.io/badge/CODE-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/CODE-CSS3-informational?style=flat&logo=CSS3&color=1572B6&logoColor=1572B6)
 ![](https://img.shields.io/badge/CODE-React-informational?style=flat&logo=React&color=61DAFB)
 ![](https://img.shields.io/badge/CODE-Vue.js-informational?style=flat&logo=Vue.js&color=4FC08D)
 ![](https://img.shields.io/badge/CODE-Webpack-informational?style=flat&logo=Webpack&color=8DD6F9)
 ![](https://img.shields.io/badge/CODE-Typescript-informational?style=flat&logo=Typescript&color=007ACC&logoColor=007ACC)
 ![](https://img.shields.io/badge/CODE-Sass-informational?style=flat&logo=Sass&color=CC6699)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=Visual-Studio-Code&color=007ACC&logoColor=007ACC)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&color=007ACC&logoColor=007ACC)
 
 <!--
 ![GrayFrost's github stats](https://github-readme-stats.vercel.app/api?username=GrayFrost&show_icons=true&theme=radical)
