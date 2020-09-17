@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 | |___| |\ V /  __/ | (_) | |    |  __/\ V /| | |
 \_____/_| \_/ \___|  \___/|_|     \___| \_/ |_|_|
                                                  
-```                                                
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFrost&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+``` 
+![GrayFrost's github stats](https://github-readme-stats.vercel.app/api?username=GrayFrost&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFrost)](https://github.com/anuraghazra/github-readme-stats)
