@@ -34,7 +34,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CODE-Vue.js-informational?style=flat&logo=Vue.js&color=4FC08D)
 ![](https://img.shields.io/badge/CODE-Webpack-informational?style=flat&logo=Webpack&color=8DD6F9)
 ![](https://img.shields.io/badge/CODE-Typescript-informational?style=flat&logo=Typescript&color=007ACC)
+![](https://img.shields.io/badge/CODE-Sass-informational?style=flat&logo=Sass&color=CC6699)
 
 
+<!--
 ![GrayFrost's github stats](https://github-readme-stats.vercel.app/api?username=GrayFrost&show_icons=true&theme=radical)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFrost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
