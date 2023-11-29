@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CODE-CSS3-informational?style=flat&logo=CSS3&color=1572B6&logoColor=1572B6)
 ![](https://img.shields.io/badge/CODE-React-informational?style=flat&logo=React&color=61DAFB)
 ![](https://img.shields.io/badge/CODE-Vue.js-informational?style=flat&logo=Vue.js&color=4FC08D)
+![](https://img.shields.io/badge/CODE-Svelte-informational?style=flat&logo=Svelte&color=FF3E00)
 ![](https://img.shields.io/badge/CODE-Webpack-informational?style=flat&logo=Webpack&color=8DD6F9)
 ![](https://img.shields.io/badge/CODE-Typescript-informational?style=flat&logo=Typescript&color=007ACC&logoColor=007ACC)
 ![](https://img.shields.io/badge/CODE-Sass-informational?style=flat&logo=Sass&color=CC6699)
