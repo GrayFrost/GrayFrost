@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CODE-Sass-informational?style=flat&logo=Sass&color=CC6699)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&color=007ACC&logoColor=007ACC)
 
+![Snake animation](https://github.com/GrayFrost/GrayFrost/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 ![GrayFrost's github stats](https://github-readme-stats.vercel.app/api?username=GrayFrost&show_icons=true&theme=radical)
 -->
