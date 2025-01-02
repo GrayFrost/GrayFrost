@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CODE-Webpack-informational?style=flat&logo=Webpack&color=8DD6F9)
 ![](https://img.shields.io/badge/CODE-Typescript-informational?style=flat&logo=Typescript&color=007ACC&logoColor=007ACC)
 ![](https://img.shields.io/badge/CODE-Sass-informational?style=flat&logo=Sass&color=CC6699)
+![](https://img.shields.io/badge/CODE-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&color=06B6D4)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&color=007ACC&logoColor=007ACC)
 
 ![Snake animation](https://github.com/GrayFrost/GrayFrost/blob/output/github-contribution-grid-snake.svg)
