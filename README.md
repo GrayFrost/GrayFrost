@@ -1,51 +1,95 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
 
-I'm a front-end developer.
+# Hi, I'm GrayFrost
 
-<!--
-**GrayFrost/GrayFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-end Developer | UI Engineer | Creative Web Builder**
 
-Here are some ideas to get you started:
+I enjoy building smooth, expressive, and maintainable web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile views](https://komarev.com/ghpvc/?username=GrayFrost&style=flat&color=0e75b6)](https://github.com/GrayFrost)
+[![GitHub followers](https://img.shields.io/github/followers/GrayFrost?style=flat&logo=github)](https://github.com/GrayFrost?tab=followers)
 
-```
-  _     _                                     _ _ 
+</div>
+
+---
+
+## About Me
+
+- I am a front-end developer focused on building thoughtful user interfaces.
+- I care about interaction details, component architecture, and clean developer experience.
+- I like exploring modern web frameworks, creative coding, visual tools, and game-like interfaces.
+- I am currently sharpening my skills around TypeScript, React/Vue ecosystems, animation, and cross-platform UI.
+
+```txt
+  _     _                                     _ _
 | |   (_)                                   (_) |
 | |    ___   _____    ___  _ __    _____   ___| |
 | |   | \ \ / / _ \  / _ \| '__|  / _ \ \ / / | |
 | |___| |\ V /  __/ | (_) | |    |  __/\ V /| | |
 \_____/_| \_/ \___|  \___/|_|     \___| \_/ |_|_|
-                                                 
-``` 
+```
 
-![](https://img.shields.io/badge/CODE-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/CODE-Javascript-informational?style=flat&logo=Javascript&color=F7DF1E)
-![](https://img.shields.io/badge/CODE-CSS3-informational?style=flat&logo=CSS3&color=1572B6&logoColor=1572B6)
-![](https://img.shields.io/badge/CODE-React-informational?style=flat&logo=React&color=61DAFB)
-![](https://img.shields.io/badge/CODE-Vue.js-informational?style=flat&logo=Vue.js&color=4FC08D)
-![](https://img.shields.io/badge/CODE-Svelte-informational?style=flat&logo=Svelte&color=FF3E00)
-![](https://img.shields.io/badge/CODE-Webpack-informational?style=flat&logo=Webpack&color=8DD6F9)
-![](https://img.shields.io/badge/CODE-Typescript-informational?style=flat&logo=Typescript&color=007ACC&logoColor=007ACC)
-![](https://img.shields.io/badge/CODE-Sass-informational?style=flat&logo=Sass&color=CC6699)
-![](https://img.shields.io/badge/CODE-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&color=06B6D4)
-![](https://img.shields.io/badge/CODE-Swift-informational?style=flat&logo=Swift&color=F05138)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&color=007ACC&logoColor=007ACC)
-![](https://img.shields.io/badge/Editor-Unity-informational?style=flat&logo=Unity&color=000000&logoColor=FFFFFF)
+## Tech Stack
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+### Front-end
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=222)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+### Tools
+
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=222)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## What I Like Building
+
+- Component libraries and design-system friendly UI
+- Smooth web interactions, animations, and playful micro-experiences
+- Front-end tooling that makes development faster and calmer
+- Creative projects that mix web technology with visuals or games
+
+## GitHub Activity
+
+<div align="center">
 
 ![Snake animation](https://github.com/GrayFrost/GrayFrost/blob/output/github-contribution-grid-snake.svg)
 
+[Repositories](https://github.com/GrayFrost?tab=repositories) ·
+[Stars](https://github.com/GrayFrost?tab=stars) ·
+[Followers](https://github.com/GrayFrost?tab=followers)
 
-<!--
-![GrayFrost's github stats](https://github-readme-stats.vercel.app/api?username=GrayFrost&show_icons=true&theme=radical)
--->
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=GrayFrost&theme=compact)](https://github.com/GrayFrost/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFrost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+## Currently
+
+- Learning deeper TypeScript patterns and modern front-end architecture
+- Exploring better UI motion and visual polish
+- Building small tools, experiments, and interfaces that feel good to use
+
+## Contact
+
+- GitHub: [@GrayFrost](https://github.com/GrayFrost)
+- Blog / Website: [GaryFrost](https://www.zzhwhd.com)
+- Email: garyfrost4321@gmail.com
+
+---
+
+<div align="center">
+
+Thanks for visiting. Keep building cool things.
+
+</div>
