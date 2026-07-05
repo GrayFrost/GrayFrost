@@ -89,7 +89,7 @@ I enjoy building smooth, expressive, and maintainable web experiences.
 ## Contact
 
 - GitHub: [@GrayFrost](https://github.com/GrayFrost)
-- Blog / Website: [GaryFrost](https://www.zzhwhd.com)
+- Blog / Website: [GaryFrost](https://zzhwhd.com/)
 - Email: garyfrost4321@gmail.com
 
 ---
