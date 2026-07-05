@@ -38,6 +38,7 @@ I enjoy building smooth, expressive, and maintainable web experiences.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
 
 ### Front-end
 
@@ -47,13 +48,18 @@ I enjoy building smooth, expressive, and maintainable web experiences.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
+### Game Engine
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+
 ### Tools
 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=222)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
 
 ## What I Like Building
 
@@ -68,8 +74,8 @@ I enjoy building smooth, expressive, and maintainable web experiences.
 
 ![Snake animation](https://github.com/GrayFrost/GrayFrost/blob/output/github-contribution-grid-snake.svg)
 
-[Repositories](https://github.com/GrayFrost?tab=repositories) ·
-[Stars](https://github.com/GrayFrost?tab=stars) ·
+[Repositories](https://github.com/GrayFrost?tab=repositories) |
+[Stars](https://github.com/GrayFrost?tab=stars) |
 [Followers](https://github.com/GrayFrost?tab=followers)
 
 </div>
